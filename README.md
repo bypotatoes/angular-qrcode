@@ -1,6 +1,8 @@
+TODO add ability to load with commonjs or es-6 modules
+
 Angular QR Code
 ===============
-
+    
     <qrcode></qrcode>
 
 An AngularJS directive to creates QR Codes using Kazuhiko Arase’s [qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) library.
